@@ -364,7 +364,7 @@
         </interface>
     </hal>
     <hal format="hidl" optional="true">
-        <name>vendor.mokee.livedisplay</name>
+        <name>vendor.lineage.livedisplay</name>
         <version>1.0</version>
         <interface>
             <name>IColor</name>
@@ -372,7 +372,7 @@
         </interface>
     </hal>
     <hal format="hidl" optional="true">
-        <name>vendor.mokee.power</name>
+        <name>vendor.lineage.power</name>
         <version>1.0</version>
         <interface>
             <name>IMoKeePower</name>
